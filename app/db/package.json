@@ -1,0 +1,10 @@
+{
+    "name": "@test/db",
+    "version": "1.0.0",
+    "dependencies": {
+        "@test/config": "1.0.0",
+        "sequelize": "^6.6.5",
+        "mysql2": "^2.2.5",
+        "sequelize-auto": "^0.8.3"
+    }
+}
